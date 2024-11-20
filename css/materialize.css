@@ -1,0 +1,67 @@
+
+.parallax-container {
+  height: 300px;
+}
+
+.t-no {
+  width: 5%;
+  text-align: center;
+}
+
+.t-eword {
+  width: 15%;
+  text-align: center;
+}
+
+.t-wc {
+  width: 10%;
+  text-align: center;
+}
+
+#th-jc {
+  width: 20%;
+}
+
+#th-we {
+  width: 30%;
+}
+
+.t-we {
+  white-space: pre-wrap;
+  line-break:strict;
+  height: 35px;
+}
+
+#th-kw {
+  width: 8%;
+  text-align: center;
+}
+
+#th-func {
+  width: 8%;
+  text-align: center;
+}
+.td-func{
+  width: 15%;
+  margin: 0 auto;
+}
+
+.ul-func {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+
+}
+
+#header-logo-container {
+  height: 64px;
+  object-fit: cover;
+}
+
+#header-logo {
+  height: 100%;
+}
+
+.brand-logo {
+  margin: 0 20px;
+}

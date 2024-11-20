@@ -1,0 +1,17 @@
+
+
+t-no${row}
+t-eword${row}
+t-wclass${row}
+t-japanesew${row}
+t-wexample${row}
+t-iknow${row}
+
+
+          let key = $(this).attr('key');
+          let no = $('#t-no' + key).val();
+          let englishword = $('#t-eword' + key).val();
+          let wordclass = $('#t-wclass' + key).val();
+          let jword = $('#t-japanesew' + key).val();
+          let wexample = $('#t-wexample' + key).val();
+          let iknow = $('#t-iknow' + key).prop
